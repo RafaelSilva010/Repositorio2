@@ -2,8 +2,8 @@ const CACHE_NAME = 'euromilhoes-cache-v1';
 const urlsToCache = [
   '/',
   '/index.html',
-  '/styles.css',
-  '/app.js',
+  
+  '/ficheirojavaficha3.js',
   '/icons/icon-192.png',
   '/icons/icon-512.png'
 ];
